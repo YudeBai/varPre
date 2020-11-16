@@ -1,1 +1,1 @@
-Supplemental experiment results of malware detection.
+Supplemental experiment results of variant detection.
